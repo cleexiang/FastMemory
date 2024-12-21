@@ -5,10 +5,11 @@ A FastAPI-based service that provides long-term memory capabilities for AI chatb
 ## Features
 
 - Vector-based memory storage and retrieval
-- Support for multiple vector database backends (OpenSearch, Pinecone)
 - Fact extraction and memory management using LLMs
 - RESTful API interface
 - Configurable logging and monitoring
+- Support for Pinecone vector database
+- Support NSFW
 
 ## Quick Start
 
